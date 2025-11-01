@@ -1,4 +1,4 @@
-# 🛍️ Dynamic Retail Dashboard  
+(<img width="1241" height="720" alt="Screenshot 2025-11-01 180645" src="https://github.com/user-attachments/assets/c51b24ec-654d-44b4-abeb-90725e99e071" /># 🛍️ Dynamic Retail Dashboard  
 ### *Excel & Data Analytics Project by Shubham Vrushabhanath Patil*
 
 ---
