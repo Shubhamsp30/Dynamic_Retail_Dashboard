@@ -189,11 +189,9 @@ The following **Key Performance Indicators (KPIs)** are used to summarize busine
 
 ## 🖼️ Dashboard Preview  
 
-> Add screenshots from your Excel file here (recommended 1200×600).  
->  
-> Example:  
-> [Dashboard Preview]
+
 > <img width="1241" height="720" alt="Screenshot 2025-11-01 180645" src="https://github.com/user-attachments/assets/c51b24ec-654d-44b4-abeb-90725e99e071" />
+
 
 ---
 
