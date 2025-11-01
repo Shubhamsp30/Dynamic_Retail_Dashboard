@@ -1,4 +1,4 @@
-# 🛍️ Dynamic Retail Dashboard  
+<img width="1241" height="720" alt="Screenshot 2025-11-01 180645" src="https://github.com/user-attachments/assets/67bd5c72-d0a8-451a-ab3d-87bd6ec15728" /># 🛍️ Dynamic Retail Dashboard  
 ### *Excel & Data Analytics Project by Shubham Vrushabhanath Patil*
 
 ---
@@ -183,7 +183,7 @@ The following **Key Performance Indicators (KPIs)** are used to summarize busine
 📍 B.Tech – Electronics and Telecommunication Engineering  
 💻 Data Analytics & Visualization Enthusiast  
 📧 [GitHub Profile](https://github.com/Shubhamsp30)  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/shubhamsp30)  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/shubhampatil30/)  
 
 ---
 
@@ -193,7 +193,8 @@ The following **Key Performance Indicators (KPIs)** are used to summarize busine
 >  
 > Example:  
 > ```markdown
-> ![Dashboard Preview](images/dashboard_overview.png)
+> ![Dashboard Preview](<img width="1241" height="720" alt="Screenshot 2025-11-01 180645" src="https://github.com/user-attachments/assets/c51b24ec-654d-44b4-abeb-90725e99e071" />
+)
 > ![Category Profit Chart](images/category_profit.png)
 > ```
 
